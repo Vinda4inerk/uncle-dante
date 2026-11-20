@@ -1,0 +1,14 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@import "tailwindcss";
+
+.dark-theme {
+    background-color: #1e293b;
+    color: #d1d5db;
+}
+
+.white-theme{
+    
+}
